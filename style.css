@@ -39,6 +39,10 @@
 .float-right{
     font-size: 20px;
     font-weight: bold;
+    overflow: auto;
+}
+.jumbotron{
+    overflow: auto;
 }
 @media (max-width: 768px){
     .img_container{
